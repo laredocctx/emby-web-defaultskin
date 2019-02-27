@@ -3,6 +3,6 @@ define([], function () {
 
     return {
         id: 'unitymb.skin',
-        name: 'Unity MB Skin'
+        name: 'unitymb.skin'
     };
 });
